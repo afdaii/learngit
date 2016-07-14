@@ -6,3 +6,4 @@ Git tracks 2.
 test test.
 git push origin master
 Creating a new branch is quick and simple.
+add merge
