@@ -5,4 +5,4 @@ Git tracks changes of files.
 Git tracks 2.
 test test.
 git push origin master
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
